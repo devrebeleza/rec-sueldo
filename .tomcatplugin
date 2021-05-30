@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/</rootDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation>/media/Datos/workspace/SOCA/RecSueldo/RecSueldo_2.war</warLocation>
+    <extraInfo></extraInfo>
+    <webPath></webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>/RecSueldo/test-classes</webClassPathEntry>
+        <webClassPathEntry>/RecSueldo/war/WEB-INF/classes</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>

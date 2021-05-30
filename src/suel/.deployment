@@ -1,0 +1,5 @@
+#Tue Feb 14 13:27:47 WARST 2012
+war.name=RecSueldo_new.war
+compiler.style=OBFUSCATED
+server.path=/media/Datos/workspace/SOCA/RecSueldo
+compiler.memory.max=512m

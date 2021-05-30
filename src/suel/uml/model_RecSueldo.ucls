@@ -1,0 +1,241 @@
+<class-diagram version="1.0.11" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="suel.client.RecSueldo" project="RecSueldo" 
+    file="/RecSueldo/src/suel/client/RecSueldo.java" binary="false">    
+    <position height="-1" width="-1" x="994" y="-111"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="suel.data.ConceptosAjusteData" project="RecSueldo" 
+    file="/RecSueldo/src/suel/data/ConceptosAjusteData.java" binary="false">    
+    <position height="-1" width="-1" x="1261" y="822"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="suel.data.ConceptosData" project="RecSueldo" 
+    file="/RecSueldo/src/suel/data/ConceptosData.java" binary="false">    
+    <position height="-1" width="-1" x="905" y="493"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="suel.data.ConceptosRecord" project="RecSueldo" 
+    file="/RecSueldo/src/suel/data/ConceptosRecord.java" binary="false">    
+    <position height="-1" width="-1" x="1276" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="suel.data.NavigationPaneRecord" project="RecSueldo" 
+    file="/RecSueldo/src/suel/data/NavigationPaneRecord.java" binary="false">    
+    <position height="-1" width="-1" x="858" y="112"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="suel.data.NavigationPaneSection" project="RecSueldo" 
+    file="/RecSueldo/src/suel/data/NavigationPaneSection.java" binary="false">    
+    <position height="-1" width="-1" x="1428" y="3"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="suel.data.NuevaActividadApplicationMenuData" 
+    project="RecSueldo" file="/RecSueldo/src/suel/data/NuevaActividadApplicationMenuData.java" binary="false">    
+    <position height="-1" width="-1" x="1449" y="195"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" corner="BOTTOM_RIGHT" language="java" name="suel.division.ApplicationMenu" project="RecSueldo" 
+    file="/RecSueldo/src/suel/division/ApplicationMenu.java" binary="false">    
+    <position height="-1" width="-1" x="2070" y="-5"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" corner="BOTTOM_RIGHT" language="java" name="suel.forms.FormularioSesion" project="RecSueldo" 
+    file="/RecSueldo/src/suel/forms/FormularioSesion.java" binary="false">    
+    <position height="-1" width="-1" x="823" y="-101"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" corner="BOTTOM_RIGHT" language="java" name="suel.forms.PaginaPrincipal.GlobalResources" 
+    project="RecSueldo" file="/RecSueldo/src/suel/forms/PaginaPrincipal.java" binary="false">    
+    <position height="-1" width="-1" x="2340" y="515"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" corner="BOTTOM_RIGHT" language="java" name="suel.forms.PaginaPrincipal.ApplicationMenuClickHandler" 
+    project="RecSueldo" file="/RecSueldo/src/suel/forms/PaginaPrincipal.java" binary="false">    
+    <position height="-1" width="-1" x="2347" y="375"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" corner="BOTTOM_RIGHT" language="java" name="suel.forms.PaginaPrincipal" project="RecSueldo" 
+    file="/RecSueldo/src/suel/forms/PaginaPrincipal.java" binary="false">    
+    <position height="-1" width="-1" x="1987" y="427"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" corner="BOTTOM_RIGHT" language="java" name="suel.shared.FuncionesUsuario" project="RecSueldo" 
+    file="/RecSueldo/src/suel/shared/FuncionesUsuario.java" binary="false">    
+    <position height="-1" width="-1" x="79" y="976"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" corner="BOTTOM_RIGHT" language="java" name="suel.shared.ManejoErrores" project="RecSueldo" 
+    file="/RecSueldo/src/suel/shared/ManejoErrores.java" binary="false">    
+    <position height="-1" width="-1" x="618" y="-94"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" corner="BOTTOM_RIGHT" language="java" name="suel.views.AjusteView.Factory" project="RecSueldo" 
+    file="/RecSueldo/src/suel/views/AjusteView.java" binary="false">    
+    <position height="-1" width="-1" x="752" y="859"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="16" corner="BOTTOM_RIGHT" language="java" name="suel.views.AjusteView" project="RecSueldo" 
+    file="/RecSueldo/src/suel/views/AjusteView.java" binary="false">    
+    <position height="-1" width="-1" x="905" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface id="17" corner="BOTTOM_RIGHT" language="java" name="suel.views.ContextAreaFactory" project="RecSueldo" 
+    file="/RecSueldo/src/suel/views/ContextAreaFactory.java" binary="false">    
+    <position height="-1" width="-1" x="645" y="599"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class id="18" corner="BOTTOM_RIGHT" language="java" name="suel.views.SueldoView" project="RecSueldo" 
+    file="/RecSueldo/src/suel/views/SueldoView.java" binary="false">    
+    <position height="-1" width="-1" x="358" y="1020"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="19" corner="BOTTOM_RIGHT" language="java" name="suel.views.SueldoView.Factory" project="RecSueldo" 
+    file="/RecSueldo/src/suel/views/SueldoView.java" binary="false">    
+    <position height="-1" width="-1" x="507" y="855"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="20" corner="BOTTOM_RIGHT" language="java" name="suel.widget.AjusteForm" project="RecSueldo" 
+    file="/RecSueldo/src/suel/widget/AjusteForm.java" binary="false">    
+    <position height="-1" width="-1" x="104" y="162"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="21" corner="BOTTOM_RIGHT" language="java" name="suel.widget.SueldoForm" project="RecSueldo" 
+    file="/RecSueldo/src/suel/widget/SueldoForm.java" binary="false">    
+    <position height="-1" width="-1" x="385" y="197"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="22">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="23" name="records"/>      
+      <multiplicity id="24" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="25">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <nesting id="26">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <nesting id="27">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <association id="28">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="29" name="records"/>      
+      <multiplicity id="30" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="31">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <realization id="32">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="17"/>  
+  </realization>  
+  <association id="33">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="34" name="records"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="36">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <association id="37">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="38" name="sectionData"/>      
+      <multiplicity id="39" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="41" name="applicationMenu"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
