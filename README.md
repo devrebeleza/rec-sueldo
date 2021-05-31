@@ -1,4 +1,4 @@
-##Aplicación WEB para liquidación de haberes de forma individual
+## Aplicación WEB para liquidación de haberes de forma individual
 
 Desarrollado con
 
